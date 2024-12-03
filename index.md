@@ -1,4 +1,10 @@
 ---
-title: Welcome to my blog
+Nekodex Index:
+---
+
+Terms of Service
+---
+
+Privacy Policy
 ---
 
